@@ -32,7 +32,7 @@ MazeBank/
 │── src/main/resources     # FXML, CSS, assets
 │── pom.xml                # Maven dependencies
 │── README.md              # Project documentation
-│── screenshots/           # App screenshots (add manually)
+│── screenshots/           # App screenshots
 ```
 
 ## 📸 Screenshots

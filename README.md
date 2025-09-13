@@ -23,6 +23,17 @@ It uses **SQLite** as the database and provides a modern GUI with features like 
 - **Eclipse IDE**  
 
 ---
+## 📂 Project Structure
+
+```plaintext
+MazeBank/
+│── src/main/java          # Application source code
+│   └── com.jmc.mazebank   # Controllers, Models, Views
+│── src/main/resources     # FXML, CSS, assets
+│── pom.xml                # Maven dependencies
+│── README.md              # Project documentation
+│── screenshots/           # App screenshots (add manually)
+```
 
 ## 📸 Screenshots
 
